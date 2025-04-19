@@ -9,7 +9,8 @@ smile_cascade = cv2.CascadeClassifier('haarcascade_smile.xml')
 
 # Specify the full path to the image file
 #img_path = os.path.join(os.getcwd(), 'C:\Users\HP\Documents\PYTHON\rectangles\smiling_people.jpg')
-img_path = os.path.join(os.getcwd(), 'C:\\Users\\HP\\Documents\\PYTHON\\rectangles\\smiling_people.jpg')
+#img_path = os.path.join(os.getcwd(), 'C:\\Users\\HP\\Documents\\PYTHON\\rectangles\\smiling_people.jpg')
+img_path = os.path.join(os.getcwd(), 'smiling_people.jpg')
 
 
 # Load the image to be processed
